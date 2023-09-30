@@ -1,0 +1,14 @@
+﻿  basicwidget.cpp
+  dishes.cpp
+  dishes_list.cpp
+D:\VS\dishes\dishes\dishes_list.cpp(12,2): warning C4091: “static ”: 没有声明变量时忽略“dishes_list”的左侧
+  management.cpp
+D:\VS\dishes\dishes\dishes_list.cpp(12,2): warning C4091: “static ”: 没有声明变量时忽略“dishes_list”的左侧
+D:\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\graphics.h(1,1): warning C4828: 文件包含在偏移 0x19d3 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+  pushbutton.cpp
+  table.cpp
+  test_main.cpp
+D:\VS\dishes\dishes\dishes_list.cpp(12,2): warning C4091: “static ”: 没有声明变量时忽略“dishes_list”的左侧
+  window.cpp
+  正在生成代码...
+  dishes.vcxproj -> D:\VS\dishes\x64\Debug\dishes.exe

@@ -1,0 +1,5 @@
+﻿  dishes.cpp
+  test_main.cpp
+  正在生成代码...
+dishes.obj : error LNK2019: 无法解析的外部符号 "public: __thiscall dishes::dishes(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,int,float)" (??0dishes@@QAE@ABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@HM@Z)，函数 "public: __thiscall dishes_list::dishes_list(void)" (??0dishes_list@@QAE@XZ) 中引用了该符号
+D:\VS\dishes\Debug\dishes.exe : fatal error LNK1120: 1 个无法解析的外部命令
